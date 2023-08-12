@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Image slider</title>
+    <link rel="stylesheet" href="styleimg.css"/>
+</head>
+<body>
+    <div class="appreciated">
+        <h1 id="heading"></h1>
+    </div>
+    <main>
+        <img src="car1.webp" id="img"/>
+    </main>
+    <div class="button">
+        <button onclick="pre()" id="pre">Previous</button>
+        <button onclick="next()" id="next">Next</button>
+    </div>
+    <script>
+        const head = document.getElementById("heading"); 
+        const imgTag = document.getElementById("img");
+        const img = ["car1.webp","car2.webp","car3.webp","car4.webp","car5.webp","car6.webp","car7.webp","car8.webp","car9.webp","car10.webp","car11.webp","car12.webp","car13.webp","car14.webp","car16.webp","car17.webp","car18.webp","car19.webp","car20.webp","car21.webp","car22.webp","car23.webp","car24.webp","car25.webp","car26.webp","car27.webp","car28.webp","car29.webp","car30.webp","car31.webp","car32.webp","car33.webp"];
+        var i = img.length;
+        setInterval(next1,5000);
+        function next1(){
+            if(i < img.length)i = i+1;
+            else i = 1
+            imgTag.src = img[i-1];
+        }
+        var pre = () => {
+            if(i < img.length + 1 && i > 1) i = i-1;
+            else i = img.length;
+            imgTag.src = img[i-1];
+        }
+        var next = () => {
+            if(i < img.length)i = i+1;
+            else i = 1
+            imgTag.src = img[i-1];
+        }
+        setTimeout(function(){heading("Welcome");},3000);
+        function heading(text){
+            head.innerHTML= text;
+        }
+        //onclick minits even  parking on left side and od parking on rigth side assigment
+    </script>
+</body>
+</html>

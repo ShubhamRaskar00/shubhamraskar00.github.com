@@ -1,0 +1,323 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(duckback.png);
+    object-fit: cover;
+    background-size: cover;
+}
+
+img[id*="bir"] {
+  width: 10%;
+  position: absolute;
+  display: none;
+}
+
+#bird1 {
+  animation-name: bird1;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
+
+#bird2 {
+  animation-name: bird2;
+  animation-duration: 8s;
+  animation-iteration-count: infinite;
+  transform: rotateY(163deg);
+}
+
+#bird3 {
+  animation-name: bird3;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
+#bird4 {
+  animation-name: bird4;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+
+#bird5 {
+  animation-name: bird5;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+#bird6 {
+  animation-name: bird6;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
+  transform: rotateY(163deg);
+}
+
+#bird7 {
+  animation-name: bird7;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  transform: rotateY(163deg);
+}
+
+#bird8 {
+  animation-name: bird8;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  transform: rotateY(163deg);
+}
+#bird9 {
+  animation-name: bird9;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  transform: rotateY(30deg);
+}
+
+#bird10 {
+  animation-name: bird10;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
+  transform: rotateY(30deg);
+}
+
+@keyframes bird1 {
+  0% {
+    bottom: 0%;
+    left: 50%;
+  }
+  25% {
+    bottom: 50%;
+    left: 30%;
+  }
+  50% {
+    bottom: 10%;
+    left: 10%;
+  }
+  75% {
+    bottom: 50%;
+    left: 10%;
+  }
+  100% {
+    bottom: 70%;
+    left: -10%;
+  }
+}
+
+@keyframes bird2 {
+  0% {
+    bottom: 0%;
+    left: 50%;
+  }
+  25% {
+    bottom: 70%;
+    left: 40%;
+  }
+  50% {
+    bottom: 20%;
+    left: 10%;
+  }
+  75% {
+    bottom: 70%;
+    left: 0%;
+  }
+  100% {
+    bottom: 50%;
+    left: -90%;
+  }
+}
+
+@keyframes bird3 {
+  from {
+    bottom: 0%;
+    left: 30%;
+  }
+  to {
+    bottom: 100%;
+    left: 100%;
+  }
+}
+
+@keyframes bird4 {
+  from {
+    bottom: 0%;
+    right: 30%;
+  }
+  to {
+    bottom: 100%;
+    right: 100%;
+  }
+}
+
+@keyframes bird5 {
+  0% {
+    bottom: 0%;
+    left: 30%;
+  }
+  25% {
+    bottom: 70%;
+    left: 40%;
+  }
+  50% {
+    bottom: 10%;
+    left: 50%;
+  }
+  75% {
+    bottom: 50%;
+    left: 70%;
+  }
+  100% {
+    bottom: 50%;
+    left: 100%;
+  }
+}
+
+@keyframes bird6 {
+  0% {
+    bottom: 0%;
+    left: 70%;
+  }
+  25% {
+    bottom: 50%;
+    left: 40%;
+  }
+  50% {
+    bottom: 30%;
+    left: 30%;
+  }
+  75% {
+    bottom: 50%;
+    left: 10%;
+  }
+  100% {
+    bottom: 50%;
+    left: -90%;
+  }
+}
+
+@keyframes bird7 {
+  0% {
+    bottom: 0%;
+    left: 90%;
+  }
+  25% {
+    bottom: 70%;
+    left: 70%;
+  }
+  50% {
+    bottom: 40%;
+    left: 60%;
+  }
+  75% {
+    bottom: 20%;
+    left: 30%;
+  }
+  100% {
+    bottom: 50%;
+    left: -90%;
+  }
+}
+
+@keyframes bird8 {
+  0% {
+    bottom: 0%;
+    left: 30%;
+  }
+  25% {
+    bottom: 40%;
+    left: 50%;
+  }
+  50% {
+    bottom: 10%;
+    left: 70%;
+  }
+  75% {
+    bottom: 50%;
+    left: 80%;
+  }
+  100% {
+    bottom: 70%;
+    left: 100%;
+  }
+}
+
+@keyframes bird9 {
+  0% {
+    bottom: 0%;
+    left: 20%;
+  }
+  25% {
+    bottom: 70%;
+    left: 30%;
+  }
+  50% {
+    bottom: 60%;
+    left: 50%;
+  }
+  75% {
+    bottom: 70%;
+    left: 70%;
+  }
+  100% {
+    bottom: 60%;
+    left: 100%;
+  }
+}
+
+@keyframes bird10 {
+  0% {
+    bottom: 0%;
+    left: 30%;
+  }
+  25% {
+    bottom: 90%;
+    left: 60%;
+  }
+  50% {
+    bottom: 50%;
+    left: 80%;
+  }
+  75% {
+    bottom: 40%;
+    left: 90%;
+  }
+  100% {
+    bottom: 50%;
+    left: 100%;
+  }
+}
+
+#scoreback {
+    position: absolute;
+    top: 10px;
+    color: #fff;
+    text-shadow: 0 0 5px #111;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+#start {
+  padding: 20px 30px;
+  border: none;
+  border-radius: 5px;
+  background: transparent;
+  cursor: pointer;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  box-shadow: 0 0 5px #111;
+  transition: 0.5s;
+}
+
+#start:hover {
+    box-shadow: 0 0 9px #111;
+}
+
+
+

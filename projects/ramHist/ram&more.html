@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head id="a">
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Shri Ram vanshawali</title>
+    <script>
+        var i = 0;
+        setInterval(()=>{
+            document.title = (i%2==0)? "Shri Ram vanshawali" : "****-****",i++;
+        },500);
+    </script>
+    <link rel="stylesheet" href="ram.css">
+</head>
+<body>
+    <main>
+        <h1>Vanvas Area<span id="vanvas"></span>
+        </h1>
+        <ol>
+            <li>
+                <b>who bring ganga?</b>
+                <button type="button" id="ganga" onclick="ganga()">Click</button>
+            </li>
+            <li><b>who was mighty king?</b>
+                <button type="button" id="raghu" onclick="mighty()">Click</button>
+            </li>
+            <li><b>who has 0 child?</b>
+                <button type="button" id="middle" onclick="middle()">Click</button>
+            </li>
+            <li><b>Ram & laxman should go vanvas area</b> 
+                <button type="button" id="middle" onclick="ramGovanvas()">Click</button>
+            </li>
+            <li><b>Super Parent</b>
+                <button type="button" id="middle" onclick="superParent()">Click</button>
+            </li>
+        </ol>
+        <p><script src="ram.js"></script></p>
+    </main>
+    <footer>
+        <span>Developed by Shubham Raskar <a href="https://www.w3schools.com/" target="_blank">and more</a></span>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duck hunt game</title>
+    <link rel="stylesheet" href="duck.css">
+    <script  src="bird.js"></script>
+    <style>
+        *{
+            cursor: crosshair;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="duckall"> 
+        <div id="scoreback">
+            <h3 id="score">Score:0</h3>
+        </div>
+        <div class="start-button">
+            <button type="button" id="start" onclick="run()">Start</button>
+        </div>
+        <img src="duck2.gif" id="bird1" onclick="bird(this)"/>
+        <img src="duck.gif" id="bird2" onclick="bird(this)"/>
+        <img src="duck3.gif" id="bird3" onclick="bird(this)"/>
+        <img src="duck2.gif" id="bird4" onclick="bird(this)"/>
+        <img src="duck.gif" id="bird5" onclick="bird(this)"/>
+        <img src="duck3.gif" id="bird6" onclick="bird(this)"/>
+        <img src="duck.gif" id="bird7" onclick="bird(this)"/>
+        <img src="duck2.gif" id="bird8" onclick="bird(this)"/>
+        <img src="duck.gif" id="bird9" onclick="bird(this)"/>
+        <img src="duck3.gif" id="bird10" onclick="bird(this)"/>
+    </div>
+</body>
+</html>
