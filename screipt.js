@@ -24,18 +24,44 @@ $(".navbar-collapse ul li a").click(function () {
   $(".navbar-toggle:visible").click();
 });
 
-const form = document.getElementById("contactForm");
-function senMsg(e) {
-  e.preventDefault();
-  const name = document.getElementById("name"),
-    email = document.getElementById("email"),
-    msg = document.getElementById("message");
-  Email.send({
-    SecureToken: "eea8980a-0d33-4e0a-ad8a-dfde64de83f0",
-    To: "shubhamrasakar69@gmail.com",
-    From: email.value,
-    Subject: "Contact Form" + name.value,
-    Body: msg.value,
-  }).then((message) => alert(message));
-}
-form.addEventListener("submit", senMsg);
+document.addEventListener('DOMContentLoaded', () => {
+    const contactForm = document.getElementById('contactForm');
+    const nameField = document.getElementById('name');
+    const emailField = document.getElementById('email');
+    const messageField = document.getElementById('message');
+    const phoneField = document.getElementById('phone');
+
+    contactForm.addEventListener('submit', async function(event) {
+        event.preventDefault(); // Prevent the default form submission
+
+        // Collect form data
+        const formData = {
+            name: nameField.value,
+            email: emailField.value,
+            message: messageField.value,
+            phoneNumber: phoneField.value
+        };
+
+        try {
+            // Send the form data to the API
+            const response = await fetch('https://shubh-backend.onrender.com/api/contact/sendmail', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            });
+
+            const data = await response.json();
+
+            // Handle the response data
+            alert('Your message has been sent successfully!');
+        } catch (error) {
+            // Handle errors
+            alert('There was an error sending your message. Please try again later.');
+        } finally {
+            // Reset the form
+            contactForm.reset();
+        }
+    });
+});
