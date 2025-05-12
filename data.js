@@ -973,6 +973,145 @@ const siteData = {
               contactButtonText: "Buy 7812",
             },
           },
+          {
+            id: "relay-57-DP-24-1-c6",
+            name: "Relay 57 DP 24 1 c6",
+            previewImage:
+              "https://5.imimg.com/data5/SELLER/Default/2023/3/294773911/CK/UA/SM/77515997/57dp241c6-2.jpg",
+            details: {
+              name: "Relay 57 DP 24 1 c6",
+              useCases: [
+                "Used for switching high-power devices with low control voltage",
+                "Ideal for industrial control panels and automation systems",
+                "Can be used in HVAC, lighting control, and motor control circuits",
+                "Suitable for electrical appliances, machinery, and automotive systems",
+              ],
+              features: [
+                "24V DC coil voltage for reliable switching",
+                "DPDT (Double Pole Double Throw) configuration",
+                "Compact design for easy PCB or panel mounting",
+                "High contact reliability and long mechanical life",
+                "Capable of switching AC and DC loads",
+              ],
+              images: [
+                "https://cpimg.tistatic.com/09528940/b/4/OEN-57DP-24-1C6-Miniature-Power-Relay.jpg",
+                "https://5.imimg.com/data5/SELLER/Default/2023/3/294773911/CK/UA/SM/77515997/57dp241c6-2.jpg",
+              ],
+              price: "₹ 130",
+              contactButtonText: "Buy Relay",
+            },
+          },
+          {
+            id: "relay-57-DP-12-1-c6",
+            name: "Relay 57DP 12 1c6",
+            previewImage:
+              "https://5.imimg.com/data5/SELLER/Default/2023/3/294773911/CK/UA/SM/77515997/57dp241c6-2.jpg",
+            details: {
+              name: "Relay 57DP 12 1c6",
+              useCases: [
+                "Used in home automation systems to control electrical devices",
+                "Suitable for automotive applications requiring 12V control",
+                "Ideal for industrial switching of low-voltage circuits",
+                "Can be integrated into DIY electronics and robotics projects",
+              ],
+              features: [
+                "12V DC coil voltage for standard low-voltage applications",
+                "DPDT (Double Pole Double Throw) contact configuration",
+                "Compact and durable construction for panel mounting",
+                "Capable of switching AC or DC loads reliably",
+                "Designed for high durability and mechanical endurance",
+              ],
+              images: [
+                "https://cpimg.tistatic.com/09528940/b/4/OEN-57DP-24-1C6-Miniature-Power-Relay.jpg",
+                "https://5.imimg.com/data5/SELLER/Default/2023/3/294773911/CK/UA/SM/77515997/57dp241c6-2.jpg",
+              ],
+              price: "₹ 130",
+              contactButtonText: "Buy Relay",
+            },
+          },
+          {
+            id: "relay-58-24-1-c",
+            name: "Relay 58 24 1C relay",
+            previewImage:
+              "https://m.media-amazon.com/images/I/415FD-4FRTL._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "Relay 58 24 1C relay",
+              useCases: [
+                "Used in industrial control systems to switch high-voltage loads",
+                "Suitable for home automation circuits",
+                "Ideal for switching AC/DC motors, lights, or heaters",
+                "Commonly used in microcontroller-based control boards",
+              ],
+              features: [
+                "Coil voltage: 24V DC",
+                "Single pole changeover (SPDT) contact configuration",
+                "Compact size for PCB mounting",
+                "High isolation between control and load circuits",
+                "Durable and reliable with long electrical life",
+              ],
+              images: [
+                "https://5.imimg.com/data5/SELLER/Default/2023/3/294747347/KI/OK/BC/77515997/58-24-1c.jpg",
+                "https://5.imimg.com/data5/SELLER/Default/2023/3/293858062/AG/WL/HN/140263658/oen-pcb-58-24-1c-relay-250x250.jpeg",
+              ],
+              price: "₹ 130",
+              contactButtonText: "Buy Relay",
+            },
+          },
+          {
+            id: "relay-58-12-1-c",
+            name: "Relay 58 12 1C relay",
+            previewImage:
+              "https://m.media-amazon.com/images/I/415FD-4FRTL._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "Relay 58 12 1C relay",
+              useCases: [
+                "Switching electrical devices in automation systems",
+                "Controlling high-voltage appliances using low-voltage circuits",
+                "Integration in DIY electronics and robotics projects",
+                "Used in automotive and industrial automation panels",
+              ],
+              features: [
+                "12V DC coil voltage for easy microcontroller integration",
+                "SPDT (Single Pole Double Throw) configuration",
+                "PCB mountable compact relay",
+                "High dielectric strength between coil and contacts",
+                "Reliable performance in switching both AC and DC loads",
+              ],
+              images: [
+                "https://5.imimg.com/data5/SELLER/Default/2023/3/294747347/KI/OK/BC/77515997/58-24-1c.jpg",
+                "https://5.imimg.com/data5/SELLER/Default/2023/3/293858062/AG/WL/HN/140263658/oen-pcb-58-24-1c-relay-250x250.jpeg",
+              ],
+              price: "₹ 130",
+              contactButtonText: "Buy Relay",
+            },
+          },
+          {
+            id: "bt-306-bakelite-connector-strip",
+            name: "BT 306 bakelite connector strip",
+            previewImage: "https://m.media-amazon.com/images/I/61Yk5KCqaIL.jpg",
+            details: {
+              name: "BT 306 bakelite connector strip",
+              useCases: [
+                "Used for secure wire-to-wire connections in electrical panels",
+                "Ideal for domestic and industrial electrical wiring",
+                "Suitable for connecting terminal points in circuits",
+                "Often used in control boxes, distribution boards, and junction boxes",
+              ],
+              features: [
+                "Made of heat-resistant Bakelite material",
+                "High dielectric strength for safety",
+                "Sturdy brass terminals ensure strong connectivity",
+                "Screw-type connection allows easy wire tightening",
+                "Modular strip design can be cut as needed",
+              ],
+              images: [
+                "https://m.media-amazon.com/images/I/51MhvuSkdiL._AC_UF1000,1000_QL80_.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ-GRbR5QK39Cs1raxcuz5sQaiv9kzSoh4Q&s",
+              ],
+              price: "₹ 110",
+              contactButtonText: "Buy Bakelite Connector Strip",
+            },
+          },
         ],
       },
     ],
@@ -984,104 +1123,113 @@ const siteData = {
       {
         id: "portfolioModal1",
         type: "video",
-        title: "Car Slider Showcase",
-        category: "Web Animation",
-        gridImage: "./img/car.png",
-        gridImageAlt: "Car Slider Project Poster",
-        videoSrcPreview: "./video/car-slider-preview.mp4",
+        title: "Immersive 3D Authentication Web Experience",
+        category: "Web Application",
+        gridImage: "./img/3d-site-front.png",
+        gridImageAlt: "Preview of 3D authentication website",
+        videoSrcPreview: "./img/3d-website-video.mp4",
+
         modal: {
-          title: "3D Car Slider Animation",
+          title: "Building a 3D Login Experience with Modern Web Tech",
           intro:
-            "A dynamic 3D car slider built with HTML, CSS, and JavaScript.",
+            "This project demonstrates a futuristic authentication interface using real-time 3D animations and seamless user interaction, powered by modern frontend technologies.",
+
           type: "video",
-          videoSrc: "./video/car-slider-full.mp4",
-          videoPoster: "./img/car.png",
-          description:
-            "This project demonstrates advanced CSS transformations and JavaScript for interactive animation. The goal was to create a visually engaging showcase for vehicles.",
-          tags: ["HTML5", "CSS3", "JavaScript", "Animation", "UI/UX"],
-          date: "April 28 2022",
+          videoSrc: "./img/3d-website-video.mp4",
+          videoPoster: "./img/3d-site-front.png",
+
+          description: `
+      This innovative web application reimagines the login and authentication process using a 3D-rendered user interface. Built in just 3 days with the help of Cursor AI, the project integrates React for UI structure, Three.js for 3D graphics, and Firebase for real-time backend services.
+
+      Key Features:
+      - Real-time 3D interaction using @react-three/fiber and drei.
+      - Secure login functionality using Firebase Authentication.
+      - Responsive layout styled with Tailwind CSS.
+      - CAPTCHA protection for form security.
+      - Smooth animation effects with 3D media integration.
+    `,
+
+          tags: [
+            "React",
+            "Three.js",
+            "Firebase",
+            "Tailwind CSS",
+            "Chart.js",
+            "Google reCAPTCHA",
+            "@headlessui/react",
+            "@mediapipe/tasks-vision",
+            "@react-three/drei",
+            "@react-three/fiber",
+            "@react-three/postprocessing",
+            "@testing-library/jest-dom",
+            "@testing-library/react",
+            "@testing-library/user-event",
+            "buffer",
+            "react-chartjs-2",
+            "react-dom",
+            "react-google-recaptcha",
+            "react-router-dom",
+            "react-scripts",
+            "react-scroll",
+            "react-simple-captcha",
+            "react-toastify",
+            "web-vitals",
+          ],
+
+          date: "Sep 2, 2024",
           client: "Personal Project",
-          liveProjectText: "View Live Slider",
-          liveProjectHref:
-            "https://shubhamraskar00.github.io/My-Website/projects/imge/index.html",
+          liveProjectText: "View Live App",
+          liveProjectHref: "https://three-react-eight.vercel.app/",
           closeButtonText: "Close Project",
         },
       },
       {
         id: "portfolioModal2",
-        type: "video",
-        title: "Duck Hunt Game",
-        category: "Game Development",
-        gridImage: "./img/duck.png",
-        gridImageAlt: "Duck Hunt Game Poster",
-        videoSrcPreview: "./video/duckhunt-preview.mp4",
+        type: "image",
+        title:
+          "E-commerce Platform for Electrical Spare Parts with Admin Panel",
+        category: "Web Application",
+        gridImage: "./img/inovia-image.png",
+        gridImageAlt: "Inovia E-commerce Website Poster",
+
         modal: {
-          title: "Retro Duck Hunt Game",
+          title: "Modern E-commerce Web App for Electrical Spare Parts",
           intro:
-            "A classic 2D bird hunting game recreated using web technologies.",
-          type: "video",
-          videoSrc: "./video/duckhunt-full.mp4",
-          videoPoster: "./img/duck.png",
-          description:
-            "Relive the nostalgia with this JavaScript-based Duck Hunt game. It features click-to-shoot mechanics and scoring, built entirely with HTML, CSS, and vanilla JavaScript.",
-          tags: ["JavaScript", "HTML5 Games", "CSS Animation", "Retro Gaming"],
-          date: "April 28 2022",
-          client: "Personal Project",
-          liveProjectText: "Play Game",
-          liveProjectHref:
-            "https://shubhamraskar00.github.io/My-Website/projects/duckhunt.js/duck.html",
+            "A full-stack e-commerce platform built with React and Node.js, featuring a robust admin dashboard and modern animations.",
+          type: "image",
+          image: "./img/inovia-image.png",
+          imageAlt: "Inovia automation e-commerce preview",
+
+          description: `
+      This project is a complete web solution for selling electrical spare parts, developed for Inovia Automation. It includes a responsive landing page with image sliders, category-based product sorting, and dedicated service sections. The admin dashboard allows seamless management of products and services, including adding, editing, and organizing content dynamically.
+
+      Key Features:
+      - Category-wise product display with real-time updates.
+      - Admin dashboard for managing inventory and services.
+      - Smooth GSAP-based scroll animations and text effects.
+      - Integrated contact form for customer queries.
+      - Optimized performance and mobile-first responsive design.
+    `,
+
+          tags: [
+            "React",
+            "Node.js",
+            "Material UI",
+            "GSAP",
+            "Crips Design",
+            "Responsive UI",
+            "Admin Dashboard",
+          ],
+
+          date: "Apr 27, 2025",
+          client: "Inovia Automation",
+          liveProjectText: "View Live App",
+          liveProjectHref: "https://inovia-automation-testing.vercel.app/",
           closeButtonText: "Close Project",
         },
       },
       {
         id: "portfolioModal3",
-        type: "image",
-        title: "Ram Vanvas History",
-        category: "Web Application",
-        gridImage: "./img/ram.png",
-        gridImageAlt: "Ram Vanvas History Project",
-        modal: {
-          title: "Ram Vanvas History Explorer",
-          intro:
-            "An interactive web application detailing the story of Ram Vanvas.",
-          type: "image",
-          image: "./img/ram.png",
-          imageAlt: "Ram Vanvas History App Screenshot",
-          description:
-            "This educational app allows users to explore the significant events and locations of Ram Vanvas, built using HTML, CSS, and JavaScript for an engaging user experience.",
-          tags: ["Educational", "JavaScript", "Interactive Map"],
-          date: "April 20 2022",
-          client: "Cultural Initiative",
-          liveProjectText: "Explore History",
-          liveProjectHref:
-            "https://shubhamraskar00.github.io/My-Website/projects/ramHist/ram&more.html",
-          closeButtonText: "Close Project",
-        },
-      },
-      {
-        id: "portfolioModal4",
-        type: "image",
-        title: "Book Store",
-        category: "E-commerce",
-        gridImage: "./img/book.png",
-        gridImageAlt: "Book Store Project",
-        modal: {
-          title: "Online Bookstore Platform",
-          intro:
-            "A full-stack e-commerce application for selling books, built with Node.js and React.",
-          type: "image",
-          image: "./img/book.png",
-          imageAlt: "Book Store Application Screenshot",
-          description:
-            "This project features user authentication, product listings, a shopping cart, and order processing, demonstrating a complete MERN stack application.",
-          tags: ["React", "Node.js", "MongoDB", "E-commerce", "Full Stack"],
-          githubLinkText: "View on GitHub",
-          githubLinkHref: "https://github.com/ShubhamRaskar00/BookStore",
-          closeButtonText: "Close Project",
-        },
-      },
-      {
-        id: "portfolioModal5",
         type: "image",
         title: "You Tube Clone",
         category: "Web Application",
@@ -1101,28 +1249,6 @@ const siteData = {
           client: "Personal Project",
           liveProjectText: "View Live App",
           liveProjectHref: "https://clone-custom-youtube.vercel.app/",
-          closeButtonText: "Close Project",
-        },
-      },
-      {
-        id: "portfolioModal6",
-        type: "image",
-        title: "Chatting App",
-        category: "Web Application",
-        gridImage: "./img/chat1.png",
-        gridImageAlt: "Chatting App Project",
-        modal: {
-          title: "Real-time Chat Application",
-          intro:
-            "A full-stack chat application enabling real-time messaging between users.",
-          type: "image",
-          image: "./img/chat1.png",
-          imageAlt: "Chatting App Interface",
-          description:
-            "Built with React for the frontend and Node.js with WebSockets (e.g., Socket.io) for real-time communication on the backend.",
-          tags: ["React", "Node.js", "WebSockets", "Real-time", "Full Stack"],
-          githubLinkText: "View on GitHub",
-          githubLinkHref: "https://github.com/ShubhamRaskar00/chatting-app",
           closeButtonText: "Close Project",
         },
       },
@@ -1187,7 +1313,7 @@ const siteData = {
     submitButtonText: "Send Message",
   },
   footer: {
-    copyrightText: "shubhamraskar.in 2024",
+    copyrightText: `shubhamraskar.in ${new Date().getFullYear()}`,
     socialLinks: [
       {
         href: "https://wa.me/7709861765",
@@ -1195,7 +1321,7 @@ const siteData = {
         label: "WhatsApp",
       },
       {
-        href: "https://www.facebook.com/people/Shubham-Raskar/100068005346800/",
+        href: "https://www.facebook.com/profile.php?id=61576292752803",
         iconClass: "fab fa-facebook-f",
         label: "Facebook",
       },
@@ -1205,5 +1331,7 @@ const siteData = {
         label: "LinkedIn",
       },
     ],
+    address:
+      "Shop No. 68, Opposite Side of Pre-School, Shilgoan, Khopoli, 401203, India",
   },
 };
