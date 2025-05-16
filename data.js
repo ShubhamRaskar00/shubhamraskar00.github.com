@@ -2,7 +2,7 @@
 const siteData = {
   navigation: {
     logo: {
-      src: "./img/Grey Minimalist Fashion Brand Logo.png",
+      src: "./img/LOGO.png",
       alt: "Micro Vision Logo",
     },
   },
