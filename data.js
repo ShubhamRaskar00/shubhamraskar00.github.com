@@ -2,12 +2,12 @@
 const siteData = {
   navigation: {
     logo: {
-      src: "./img/LOGO.png",
+      src: "https://shubhamraskar00.github.io/img/LOGO.png",
       alt: "Micro Vision Logo",
     },
   },
   header: {
-    videoSrc: "./img/heading.mp4",
+    videoSrc: "https://shubhamraskar00.github.io/img/heading.mp4",
     videoPoster:
       "https://images.pexels.com/videos/3163534/free-video-3163534.jpg?auto=compress&cs=tinysrgb&w=600",
     leadInLines: ["Hello, Welcome!"],
@@ -218,7 +218,7 @@ const siteData = {
           {
             id: "product-p10-rgb-color",
             name: "P10 RGB Full Color LED Module",
-            previewImage: "./img/image.png",
+            previewImage: "https://shubhamraskar00.github.io/img/image.png",
             details: {
               name: "P10 RGB Full Color Outdoor LED Display Module",
               useCases: [
@@ -253,7 +253,8 @@ const siteData = {
           {
             id: "product-smart-borewell-Autotek-SPCD",
             name: "Autotek SPCD Single Phase Control Panel",
-            previewImage: "./img/Autotek SPCD Single Phase Control Panel.jpeg",
+            previewImage:
+              "https://shubhamraskar00.github.io/img/Autotek SPCD Single Phase Control Panel.jpeg",
             details: {
               name: "Autotek SPCD Single Phase Control Panel",
               useCases: [
@@ -273,8 +274,8 @@ const siteData = {
                 "Simple wiring and easy installation",
               ],
               images: [
-                "./img/Autotek SPCD Single Phase Control Panel.jpeg",
-                "./img/Autotek SPCD Single Phase Control Panel.jpeg",
+                "https://shubhamraskar00.github.io/img/Autotek SPCD Single Phase Control Panel.jpeg",
+                "https://shubhamraskar00.github.io/img/Autotek SPCD Single Phase Control Panel.jpeg",
               ],
               price: "₹ 2363",
               contactButtonText: "Order Borewell Controller",
@@ -283,7 +284,7 @@ const siteData = {
           {
             id: "product-smart-borewell-Autocon-spd",
             name: "Autocon SPD Single Phase Control Panel",
-            previewImage: "./img/Autocon SPD Single Phase Control Panel.jpeg",
+            previewImage: "https://shubhamraskar00.github.io/img/Autocon SPD Single Phase Control Panel.jpeg",
             details: {
               name: "Autocon SPD Single Phase Control Panel",
               useCases: [
@@ -303,8 +304,8 @@ const siteData = {
                 "Durable build with easy wall mounting",
               ],
               images: [
-                "./img/Autocon SPD Single Phase Control Panel.jpeg",
-                "./img/Autocon SPD Single Phase Control Panel.jpeg",
+                "https://shubhamraskar00.github.io/img/Autocon SPD Single Phase Control Panel.jpeg",
+                "https://shubhamraskar00.github.io/img/Autocon SPD Single Phase Control Panel.jpeg",
               ],
               price: "₹ 2475",
               contactButtonText: "Order Borewell Controller",
@@ -314,7 +315,7 @@ const siteData = {
             id: "product-smart-borewell-Autocon-spd-2hp",
             name: "Autocon SPD Single Phase Control Panel 2 HP",
             previewImage:
-              "./img/Autocon SPD Single Phase Control Panel 2 HP.jpeg",
+              "https://shubhamraskar00.github.io/img/Autocon SPD Single Phase Control Panel 2 HP.jpeg",
             details: {
               name: "Autocon SPD Single Phase Control Panel 2HP",
               useCases: [
@@ -334,8 +335,8 @@ const siteData = {
                 "Durable build with easy wall mounting",
               ],
               images: [
-                "./img/Autocon SPD Single Phase Control Panel 2 HP.jpeg",
-                "./img/Autocon SPD Single Phase Control Panel 2 HP.jpeg",
+                "https://shubhamraskar00.github.io/img/Autocon SPD Single Phase Control Panel 2 HP.jpeg",
+                "https://shubhamraskar00.github.io/img/Autocon SPD Single Phase Control Panel 2 HP.jpeg",
               ],
               price: "₹ 2625",
               contactButtonText: "Order Borewell Controller",
@@ -2137,9 +2138,9 @@ const siteData = {
         type: "video",
         title: "Immersive 3D Authentication Web Experience",
         category: "Web Application",
-        gridImage: "./img/3d-site-front.png",
+        gridImage: "https://shubhamraskar00.github.io/img/3d-site-front.png",
         gridImageAlt: "Preview of 3D authentication website",
-        videoSrcPreview: "./img/3d-website-video.mp4",
+        videoSrcPreview: "https://shubhamraskar00.github.io/img/3d-website-video.mp4",
 
         modal: {
           title: "Building a 3D Login Experience with Modern Web Tech",
@@ -2147,8 +2148,9 @@ const siteData = {
             "This project demonstrates a futuristic authentication interface using real-time 3D animations and seamless user interaction, powered by modern frontend technologies.",
 
           type: "video",
-          videoSrc: "./img/3d-website-video.mp4",
-          videoPoster: "./img/3d-site-front.png",
+          videoSrc: "https://shubhamraskar00.github.io/img/3d-website-video.mp4",
+          videoPoster:
+            "https://shubhamraskar00.github.io/img/3d-site-front.png",
 
           description: `
       This innovative web application reimagines the login and authentication process using a 3D-rendered user interface. Built in just 3 days with the help of Cursor AI, the project integrates React for UI structure, Three.js for 3D graphics, and Firebase for real-time backend services.
@@ -2201,7 +2203,7 @@ const siteData = {
         title:
           "E-commerce Platform for Electrical Spare Parts with Admin Panel",
         category: "Web Application",
-        gridImage: "./img/inovia-image.png",
+        gridImage: "https://shubhamraskar00.github.io/img/inovia-image.png",
         gridImageAlt: "Inovia E-commerce Website Poster",
 
         modal: {
@@ -2209,7 +2211,7 @@ const siteData = {
           intro:
             "A full-stack e-commerce platform built with React and Node.js, featuring a robust admin dashboard and modern animations.",
           type: "image",
-          image: "./img/inovia-image.png",
+          image: "https://shubhamraskar00.github.io/img/inovia-image.png",
           imageAlt: "Inovia automation e-commerce preview",
 
           description: `
@@ -2245,14 +2247,14 @@ const siteData = {
         type: "image",
         title: "You Tube Clone",
         category: "Web Application",
-        gridImage: "./img/chat.png",
+        gridImage: "https://shubhamraskar00.github.io/img/chat.png",
         gridImageAlt: "YouTube Clone Project",
         modal: {
           title: "Video Streaming Platform (YouTube Clone)",
           intro:
             "A React-based application mimicking core YouTube functionalities using RapidAPI.",
           type: "image",
-          image: "./img/chat.png",
+          image: "https://shubhamraskar00.github.io/img/chat.png",
           imageAlt: "YouTube Clone Interface",
           description:
             "Users can search for videos, view channels, and watch content. Built with React, Material UI, and integrated with external video APIs.",
@@ -2325,7 +2327,7 @@ const siteData = {
     submitButtonText: "Send Message",
   },
   footer: {
-    copyrightText: `shubhamraskar.in ${new Date().getFullYear()}`,
+    copyrightText: `microvision.whf.bz ${new Date().getFullYear()}`,
     socialLinks: [
       {
         href: "https://wa.me/7709861765",
