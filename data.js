@@ -1112,6 +1112,1018 @@ const siteData = {
               contactButtonText: "Buy Bakelite Connector Strip",
             },
           },
+          {
+            id: "Soldering-iron-25W",
+            name: "Soldering-iron 25W",
+            previewImage:
+              "https://m.media-amazon.com/images/I/5116kaFSkEL._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "Soldering-iron 25W",
+              useCases: [
+                "Ideal for soldering electronic components on PCBs",
+                "Used for DIY electronics and repair work",
+                "Suitable for educational and hobby projects",
+                "Perfect for small-scale electrical assembly tasks",
+              ],
+              features: [
+                "Power rating: 25 Watts – suitable for precision electronics work",
+                "Fast heating element for quick operation",
+                "Ergonomic handle for comfortable grip during long usage",
+                "Replaceable tip for extended tool life",
+                "Plug-and-play design – ready to use out of the box",
+              ],
+              images: [
+                "https://www.noelindia.com/cdn/shop/products/SolderingIron25WPLATINUM_5d12b95d-99fe-4653-8065-9377335185e3.jpg?v=1623041726",
+                "https://m.media-amazon.com/images/I/5116kaFSkEL._AC_UF1000,1000_QL80_.jpg",
+              ],
+              price: "₹ 350",
+              contactButtonText: "Buy Soldering iron",
+            },
+          },
+          {
+            id: "Soldering-iron-25W",
+            name: "Soldering-iron 25W",
+            previewImage:
+              "https://m.media-amazon.com/images/I/5116kaFSkEL._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "Soldering-iron 25W",
+              useCases: [
+                "Perfect for soldering small electronic components on PCBs",
+                "Ideal for school, college, and DIY electronic projects",
+                "Useful in electronics repair and maintenance work",
+                "Commonly used in assembling custom circuit boards",
+              ],
+              features: [
+                "25W power rating – suitable for low to medium soldering tasks",
+                "Quick heating element for efficient operation",
+                "Ergonomically designed heat-resistant handle for safe usage",
+                "Replaceable conical tip for precision soldering",
+                "Lightweight and easy to use – ideal for beginners and hobbyists",
+              ],
+              images: [
+                "https://www.noelindia.com/cdn/shop/products/SolderingIron25WPLATINUM_5d12b95d-99fe-4653-8065-9377335185e3.jpg?v=1623041726",
+                "https://m.media-amazon.com/images/I/5116kaFSkEL._AC_UF1000,1000_QL80_.jpg",
+              ],
+              price: "₹ 120",
+              contactButtonText: "Buy Soldering iron",
+            },
+          },
+          {
+            id: "Multimeter-probe",
+            name: "Multimeter Probe",
+            previewImage:
+              "https://m.media-amazon.com/images/I/41DpwYuNp3L._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "Multimeter Probe",
+              useCases: [
+                "Used with digital and analog multimeters for accurate measurements",
+                "Ideal for testing voltage, current, resistance, and continuity",
+                "Suitable for electronics repair, lab work, and DIY diagnostics",
+                "Commonly used in automotive, industrial, and electrical troubleshooting",
+              ],
+              features: [
+                "Sharp metal tips for precise contact and reliable readings",
+                "Insulated grip handles for safe handling and protection",
+                "Compatible with most standard multimeters",
+                "Flexible, durable test leads for easy maneuvering",
+                "Color-coded (red and black) for easy polarity identification",
+              ],
+              images: [
+                "https://m.media-amazon.com/images/I/41tBm+DywVL._AC_UF1000,1000_QL80_.jpg",
+                "https://m.media-amazon.com/images/I/61Fq3pPUodL.jpg",
+              ],
+              price: "₹ 85",
+              contactButtonText: "Buy Multimeter Probe",
+            },
+          },
+          {
+            id: "DC-Male-Female-Connector",
+            name: "DC Male Female Connector",
+            previewImage:
+              "https://5.imimg.com/data5/SELLER/Default/2021/11/LR/JT/IJ/134163065/1-500x500.jpg",
+            details: {
+              name: "DC Male Female Connector",
+              useCases: [
+                "Used to connect DC power supplies to various electronic devices",
+                "Ideal for CCTV camera setups and LED lighting systems",
+                "Helpful in DIY electronics and embedded system projects",
+                "Commonly used for power extension and adapter connections",
+              ],
+              features: [
+                "Standard 5.5mm x 2.1mm male and female barrel connectors",
+                "Durable plastic housing with strong strain relief",
+                "Ensures secure and reliable power connection",
+                "Plug-and-play design for quick setup",
+                "Compatible with most DC power adapters and jacks",
+              ],
+              images: [
+                "https://5.imimg.com/data5/SELLER/Default/2023/2/JJ/SA/EK/34568451/4-8mm-x-1-7mm-dc-female-to-male-extension-right-angle-90-patch-cable-500x500.jpg",
+                "https://m.media-amazon.com/images/I/71Gf-6ZqZdL.jpg",
+              ],
+              price: "₹ 24",
+              contactButtonText: "Buy Connector",
+            },
+          },
+          {
+            id: "lr44",
+            name: "LR44 button cell battery (5 pcs)",
+            previewImage:
+              "https://genuinebattery.com/cdn/shop/products/44_2.jpg",
+            details: {
+              name: "LR44 button cell battery (5 pcs)",
+              useCases: [
+                "Commonly used in digital thermometers and laser pointers",
+                "Ideal for wristwatches, calculators, and small toys",
+                "Suitable for hearing aids, medical devices, and keychain lights",
+                "Used in test instruments and small remote controls",
+              ],
+              features: [
+                "Nominal voltage: 1.5V",
+                "Chemistry: Alkaline, non-rechargeable",
+                "Compact and lightweight button cell form factor",
+                "Long shelf life and stable power output",
+                "Mercury-free and environmentally safe",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDrZXO4ZkaJAhsuuKFl1IH0PK_xgBU2pg1FCpdLYUhyrG_NnEQ8ouvBrNfabUBXPjnTTI&usqp=CAU",
+                "https://genuinebattery.com/cdn/shop/products/44_2.jpg",
+              ],
+              price: "₹ 38",
+              contactButtonText: "Buy LR44",
+            },
+          },
+          {
+            id: "23A-12V-GP-High-Voltage-Alkaline-Battery",
+            name: "23A 12V GP High Voltage Alkaline Battery",
+            previewImage:
+              "https://m.media-amazon.com/images/I/517Xg80HjhL._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "23A 12V GP High Voltage Alkaline Battery",
+              useCases: [
+                "Used in remote controls for car alarms and garage doors",
+                "Ideal for wireless doorbells and security systems",
+                "Compatible with keyless entry systems and RF devices",
+                "Powers some camera equipment and medical instruments",
+              ],
+              features: [
+                "Voltage: 12V for high-power demand applications",
+                "Type: Alkaline, non-rechargeable battery",
+                "Long shelf life with low self-discharge",
+                "Compact cylindrical design (approx. 10mm x 28mm)",
+                "Reliable performance in low and high drain devices",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDCpw68lead58KvxF-kplOgFGLQAgoGq1pReImOYkHZoTRPbSuo47BM8-oygFGHE9IbwQ&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFh0HRqTgmntvT1HPm775R6bOOfWHuYd30xh_v8eVZUIUwt3b_Qhj-FY-2X5Q-hW4dTiQ&usqp=CAU",
+              ],
+              price: "₹ 78",
+              contactButtonText: "Buy Alkaline Battery",
+            },
+          },
+          {
+            id: "Soldering-stand",
+            name: "Soldering Stand",
+            previewImage:
+              "https://techdelivers.com/image/cache/catalog/solder/stand-iron-stand-flat-base-600x315w.jpg",
+            details: {
+              name: "Soldering Stand",
+              useCases: [
+                "Used to safely hold hot soldering irons during electronics work",
+                "Ideal for workbenches in repair shops and DIY electronics setups",
+                "Helps prevent accidental burns or damage from hot iron tips",
+                "Keeps soldering station organized and tools within reach",
+              ],
+              features: [
+                "Durable metal holder with stable flat base",
+                "Includes a coiled spring stand to hold iron securely",
+                "Heat-resistant base material prevents bench damage",
+                "Compact design suitable for any workspace",
+                "Compatible with most standard soldering irons",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY825CgGAvFRxQWKECLkHkFwnJY_kn7IGD3g&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp5KLQnbVk1VKU_bPTHujSt0OUIBjxKQ56sg&s",
+              ],
+              price: "₹ 62",
+              contactButtonText: "Buy Soldering Stand",
+            },
+          },
+          {
+            id: "continuity-tester",
+            name: "Continuity Tester",
+            previewImage:
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSStYLb9QTWBNoxxxblemzmtV7JIDWtkJuWhQ&s",
+            details: {
+              name: "Continuity Tester",
+              useCases: [
+                "Used to check continuity in electrical circuits and components",
+                "Ideal for identifying broken wires or open circuits",
+                "Commonly used in electronics repair and maintenance",
+                "Useful for testing switches, fuses, and connections",
+              ],
+              features: [
+                "Easy-to-use pen-style design",
+                "Bright LED indicator for clear continuity status",
+                "Durable build with insulated probe for safety",
+                "Battery operated for portable testing",
+                "Compact and lightweight for convenient use",
+              ],
+              images: [
+                "https://m.media-amazon.com/images/I/41c0gKmHFOL._AC_UF1000,1000_QL80_.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zClLcX1noWZF653BkV5-BJvZQ2snr0KZUlxmJTbJa0GyvKquVRvKITpVSaQyogAjj9k&usqp=CAU",
+              ],
+              price: "₹ 120",
+              contactButtonText: "Buy Continuity Tester",
+            },
+          },
+          {
+            id: "9V-1A-adaptor",
+            name: "9V 1A Adaptor",
+            previewImage:
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78AehlVXKef9VaKW_ANHx3tyNEuyAp8LBDw&s",
+            details: {
+              name: "9V 1A Adaptor",
+              useCases: [
+                "Powering Arduino and other microcontroller boards",
+                "Used in small electronics projects and DIY kits",
+                "Ideal for powering routers, LED strips, and CCTV cameras",
+                "Suitable for lab testing, breadboard circuits, and sensor modules",
+              ],
+              features: [
+                "Output voltage: 9V DC, Current: 1A",
+                "Standard DC barrel jack connector",
+                "Over-voltage and over-current protection",
+                "Lightweight and compact design for easy portability",
+                "Plug-and-play usability with stable power supply",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfMbc3FtASpePe4PksCxZ8UFTLRyaAGdm5g&s",
+                "https://www.prayogindia.in/wp-content/uploads/2021/06/adaptor-www.prayogindia.in_.png",
+              ],
+              price: "₹ 120",
+              contactButtonText: "Buy Adaptor",
+            },
+          },
+          {
+            id: "9V-2A-adaptor",
+            name: "9V 2A Adaptor",
+            previewImage:
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78AehlVXKef9VaKW_ANHx3tyNEuyAp8LBDw&s",
+            details: {
+              name: "9V 2A Adaptor",
+              useCases: [
+                "Provides reliable power for microcontroller-based projects like Arduino and Raspberry Pi modules",
+                "Used for powering LED light strips and small home automation systems",
+                "Suitable for wireless routers, modems, and IoT development kits",
+                "Helps in prototyping breadboard circuits that need higher current supply",
+                "Used in industrial and educational lab tools requiring stable 9V input",
+              ],
+              features: [
+                "Output: 9V DC at 2A current",
+                "High-efficiency power conversion with minimal heat generation",
+                "Fitted with standard 5.5mm DC barrel connector",
+                "Built-in protection against over-voltage, over-current, and short circuits",
+                "Durable build with compact and lightweight design",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfMbc3FtASpePe4PksCxZ8UFTLRyaAGdm5g&s",
+                "https://www.prayogindia.in/wp-content/uploads/2021/06/adaptor-www.prayogindia.in_.png",
+              ],
+              price: "₹ 160",
+              contactButtonText: "Buy Adaptor",
+            },
+          },
+          {
+            id: "12V-1A-adaptor",
+            name: "12V 1A Adaptor",
+            previewImage:
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78AehlVXKef9VaKW_ANHx3tyNEuyAp8LBDw&s",
+            details: {
+              name: "12V 1A Adaptor",
+              useCases: [
+                "Powering small routers, LED strips, and home automation sensors",
+                "Ideal for DIY electronics projects requiring 12V DC input",
+                "Used in CCTV cameras and basic embedded development boards",
+              ],
+              features: [
+                "Output: 12V DC, 1A",
+                "Compact and lightweight design",
+                "Over-voltage and short circuit protection",
+                "Standard 5.5mm DC barrel connector",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfMbc3FtASpePe4PksCxZ8UFTLRyaAGdm5g&s",
+                "https://www.prayogindia.in/wp-content/uploads/2021/06/adaptor-www.prayogindia.in_.png",
+              ],
+              price: "₹ 120",
+              contactButtonText: "Buy Adaptor",
+            },
+          },
+
+          {
+            id: "12V-2A-adaptor",
+            name: "12V 2A Adaptor",
+            previewImage:
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78AehlVXKef9VaKW_ANHx3tyNEuyAp8LBDw&s",
+            details: {
+              name: "12V 2A Adaptor",
+              useCases: [
+                "Used in higher-powered LED setups, security cameras, and routers",
+                "Ideal for powering development kits like Raspberry Pi with add-ons",
+                "Supports moderate current electronics and lab equipment",
+              ],
+              features: [
+                "Output: 12V DC, 2A",
+                "Good thermal stability and power efficiency",
+                "Built-in protection: over-current, over-voltage, short-circuit",
+                "Plug-and-play barrel jack compatibility",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfMbc3FtASpePe4PksCxZ8UFTLRyaAGdm5g&s",
+                "https://www.prayogindia.in/wp-content/uploads/2021/06/adaptor-www.prayogindia.in_.png",
+              ],
+              price: "₹ 160",
+              contactButtonText: "Buy Adaptor",
+            },
+          },
+
+          {
+            id: "12V-3A-adaptor",
+            name: "12V 3A Adaptor",
+            previewImage:
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78AehlVXKef9VaKW_ANHx3tyNEuyAp8LBDw&s",
+            details: {
+              name: "12V 3A Adaptor",
+              useCases: [
+                "Used in high-power LED panels, 3D printers, and automation controllers",
+                "Ideal for powering multiple IoT modules simultaneously",
+                "Works for embedded boards with multiple sensors and actuators",
+              ],
+              features: [
+                "Output: 12V DC, 3A",
+                "High-efficiency design with safety certifications",
+                "Stable output with minimal ripple and noise",
+                "Durable housing for extended use",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfMbc3FtASpePe4PksCxZ8UFTLRyaAGdm5g&s",
+                "https://www.prayogindia.in/wp-content/uploads/2021/06/adaptor-www.prayogindia.in_.png",
+              ],
+              price: "₹ 360",
+              contactButtonText: "Buy Adaptor",
+            },
+          },
+          {
+            id: "12V-5A-adaptor",
+            name: "12V 5A Adaptor",
+            previewImage:
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78AehlVXKef9VaKW_ANHx3tyNEuyAp8LBDw&s",
+            details: {
+              name: "12V 5A Adaptor",
+              useCases: [
+                "Suitable for heavy-duty LED installations and surveillance systems",
+                "Powers multiple development boards and IoT hubs at once",
+                "Perfect for robotics kits and industrial sensor networks",
+              ],
+              features: [
+                "Output: 12V DC, 5A",
+                "Premium-grade components for long-term use",
+                "Integrated surge, overload, and thermal protection",
+                "Compatible with 5.5mm barrel jack interface",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfMbc3FtASpePe4PksCxZ8UFTLRyaAGdm5g&s",
+                "https://www.prayogindia.in/wp-content/uploads/2021/06/adaptor-www.prayogindia.in_.png",
+              ],
+              price: "₹ 450",
+              contactButtonText: "Buy Adaptor",
+            },
+          },
+          {
+            id: "cat-6-cable-5m",
+            name: "Cat 6 Cable 5M",
+            previewImage:
+              "https://m.media-amazon.com/images/I/6126BTMsmFL._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "Cat 6 Cable 5M",
+              useCases: [
+                "Ideal for connecting desktop PCs to routers for high-speed data transfer",
+                "Used in office environments for long-range network extensions",
+                "Perfect for CCTV DVR/NVR LAN connections with minimal packet loss",
+              ],
+              features: [
+                "Length: 5 Meters",
+                "Supports up to 1 Gbps transfer speed with 250 MHz bandwidth",
+                "UTP (Unshielded Twisted Pair) for interference-free connection",
+                "RJ45 gold-plated connectors for corrosion resistance and stability",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5XlbIb3-l2bPiotpI3z_fYcuFa6Hp9LyLlw&s",
+                "https://www.ugreenindia.com/cdn/shop/files/a_zznlbgnof6dcjq_6208e713-c247-4980-8c3f-ddb066cf0c2a.jpg?v=1719803212&width=1214",
+              ],
+              price: "₹ 250",
+              contactButtonText: "Buy Cat 6 Cable",
+            },
+          },
+          {
+            id: "cat-6-cable-2m",
+            name: "Cat 6 Cable 2M",
+            previewImage:
+              "https://m.media-amazon.com/images/I/6126BTMsmFL._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "Cat 6 Cable 2M",
+              useCases: [
+                "Great for connecting laptops to modems or routers",
+                "Suitable for short-range wired office setups or LAN gaming",
+                "Useful for direct connection between devices like DVRs and switches",
+              ],
+              features: [
+                "Length: 2 Meters",
+                "High-speed data transmission up to 1 Gbps",
+                "Tangle-free and flexible outer coating",
+                "Backward compatible with Cat 5, Cat 5e devices",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5XlbIb3-l2bPiotpI3z_fYcuFa6Hp9LyLlw&s",
+                "https://www.ugreenindia.com/cdn/shop/files/a_zznlbgnof6dcjq_6208e713-c247-4980-8c3f-ddb066cf0c2a.jpg?v=1719803212&width=1214",
+              ],
+              price: "₹ 200",
+              contactButtonText: "Buy Cat 6 Cable",
+            },
+          },
+          {
+            id: "cat-6-cable-1-5m",
+            name: "Cat 6 Cable 1.5M",
+            previewImage:
+              "https://m.media-amazon.com/images/I/6126BTMsmFL._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "Cat 6 Cable 1.5M",
+              useCases: [
+                "Perfect for desktop setups where router is close by",
+                "Ideal for home or office quick patching and short links",
+                "Used for connecting PoE devices within short distances",
+              ],
+              features: [
+                "Length: 1.5 Meters",
+                "Stable and reliable high-speed LAN connection",
+                "Durable molded strain-relief boots to avoid cable damage",
+                "Slim design allows easy cable management",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5XlbIb3-l2bPiotpI3z_fYcuFa6Hp9LyLlw&s",
+                "https://www.ugreenindia.com/cdn/shop/files/a_zznlbgnof6dcjq_6208e713-c247-4980-8c3f-ddb066cf0c2a.jpg?v=1719803212&width=1214",
+              ],
+              price: "₹ 150",
+              contactButtonText: "Buy Cat 6 Cable",
+            },
+          },
+          {
+            id: "usb-to-printer-1-5m",
+            name: "USB To Printer 1.5M",
+            previewImage:
+              "https://m.media-amazon.com/images/I/51TKDDEQQfL._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "USB To Printer 1.5M",
+              useCases: [
+                "Used to connect a computer or laptop to printers or scanners",
+                "Suitable for home and office printing setups with nearby devices",
+                "Ideal for high-speed data transfers between PC and USB-B devices",
+              ],
+              features: [
+                "Length: 1.5 Meters",
+                "Type: USB A to USB B cable (Standard Printer Cable)",
+                "Supports high-speed USB 2.0 data transfer up to 480 Mbps",
+                "Gold-plated connectors for corrosion resistance and reliable performance",
+                "Durable PVC outer jacket with strain-relief design",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGgzTF6aInHstaz78FJhUCrE4CJFADBrmjw&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGgzTF6aInHstaz78FJhUCrE4CJFADBrmjw&s",
+              ],
+              price: "₹ 200",
+              contactButtonText: "Buy USB To Printer",
+            },
+          },
+          {
+            id: "usb-to-printer-3m",
+            name: "USB To Printer 3M",
+            previewImage:
+              "https://m.media-amazon.com/images/I/51TKDDEQQfL._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "USB To Printer 3M",
+              useCases: [
+                "Perfect for setups where the printer is far from the computer",
+                "Works with printers, scanners, and other USB-B compatible devices",
+                "Commonly used in offices with longer cable routing needs",
+              ],
+              features: [
+                "Length: 3 Meters",
+                "USB A to USB B connection – standard for most printers and scanners",
+                "High-speed USB 2.0 support (up to 480 Mbps)",
+                "Sturdy cable with reinforced joints for extra durability",
+                "Compatible with Windows, macOS, and Linux systems",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGgzTF6aInHstaz78FJhUCrE4CJFADBrmjw&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGgzTF6aInHstaz78FJhUCrE4CJFADBrmjw&s",
+              ],
+              price: "₹ 250",
+              contactButtonText: "Buy USB To Printer",
+            },
+          },
+          {
+            id: "hdmi-cable-5m",
+            name: "HDMI Cable 5M",
+            previewImage:
+              "https://images-na.ssl-images-amazon.com/images/I/313i6d8kkML.jpg",
+            details: {
+              name: "HDMI Cable 5M",
+              useCases: [
+                "Ideal for connecting TVs, monitors, and projectors to laptops, gaming consoles, and media players",
+                "Perfect for home theater setups or office presentations requiring longer reach",
+                "Supports 1080p and 4K resolution for high-definition video streaming",
+              ],
+              features: [
+                "Length: 5 Meters",
+                "High-speed HDMI with Ethernet support",
+                "Gold-plated connectors for improved signal transmission",
+                "Supports 3D, Audio Return Channel (ARC), and Deep Color",
+                "Compatible with HDMI 2.0 and backward-compatible with earlier versions",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0R7Cr_v-NZZnz0rY3W0sJehWWPj4zuy4k2w&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuj9gxcmkJNFrjy8AgI68S7fzvLSm_EuZOMA&s",
+              ],
+              price: "₹ 350",
+              contactButtonText: "Buy HDMI Cable",
+            },
+          },
+          {
+            id: "hdmi-cable-1-5m",
+            name: "HDMI Cable 1.5M",
+            previewImage:
+              "https://images-na.ssl-images-amazon.com/images/I/313i6d8kkML.jpg",
+            details: {
+              name: "HDMI Cable 1.5M",
+              useCases: [
+                "Best for short-range connections between laptops, monitors, and TVs",
+                "Suitable for desks and compact workspaces with limited distance",
+                "Reliable for gaming, streaming, and presentations with high-speed data needs",
+              ],
+              features: [
+                "Length: 1.5 Meters",
+                "High-speed HDMI cable with support for up to 4K resolution",
+                "Gold-plated connectors for stable signal transmission",
+                "Flexible, durable outer jacket to prevent tangling",
+                "Compatible with HDMI 2.0, 1.4, and earlier versions",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0R7Cr_v-NZZnz0rY3W0sJehWWPj4zuy4k2w&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuj9gxcmkJNFrjy8AgI68S7fzvLSm_EuZOMA&s",
+              ],
+              price: "₹ 200",
+              contactButtonText: "Buy HDMI Cable",
+            },
+          },
+          {
+            id: "Micro-USB-cable-5m",
+            name: "Micro USB Cable 5M",
+            previewImage: "https://m.media-amazon.com/images/I/71nng6fgkyL.jpg",
+            details: {
+              name: "Micro USB Cable 5M",
+              useCases: [
+                "Charging and syncing smartphones, tablets, and other micro-USB devices",
+                "Connecting GPS units, digital cameras, and MP3 players to computers",
+                "Extending reach for devices in hard-to-access areas",
+              ],
+              features: [
+                "5-meter length for extended reach",
+                "Supports data transfer speeds up to 480 Mbps",
+                "Right-angle connectors for space-saving connections",
+                "USB 2.0 compliant",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSBnOXCfMYTi-ecQY33ghnOIaZ_QJgwTsvDHBtXDosxSRY1DyXPTGH7XIQFuYLcp2tXM&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkv01ToQdp78t4yA6YcdxFy0LaRFiGAd4AGg&s",
+              ],
+              price: "₹ 120",
+              contactButtonText: "Buy Micro USB Cable",
+            },
+          },
+          {
+            id: "Vga-cable",
+            name: "Vga Cable",
+            previewImage:
+              "https://m.media-amazon.com/images/I/61IM8C7rt0L._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "Vga Cable",
+              useCases: [
+                "Connecting computers to monitors, projectors, or TVs",
+                "Transmitting analog video signals from PCs to display devices",
+                "Ideal for legacy systems requiring VGA connections",
+              ],
+              features: [
+                "15-pin male-to-male connectors",
+                "Supports resolutions up to 640x480 pixels",
+                "Durable construction for long-term use",
+                "Compatible with a wide range of devices",
+              ],
+              images: [
+                "https://m.media-amazon.com/images/I/61yCsYqYWcL._AC_UF894,1000_QL80_.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjiyJ7odhkpydDkwjyjNhmft2hVDGxbrewGWpwGjJ3dOwYPpgNi2biGQypNmaa9WbN_BE&usqp=CAU",
+              ],
+              price: "₹ 100",
+              contactButtonText: "Buy Vga Cable",
+            },
+          },
+          {
+            id: "USB-to-Lan",
+            name: "USB To Lan",
+            previewImage:
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMlw6x64iLQdniID2ZVaviNKuw1qxmKOGskw&s",
+            details: {
+              name: "USB To Lan",
+              useCases: [
+                "Providing wired Ethernet connectivity to devices without LAN ports",
+                "Enhancing network stability over wireless connections",
+                "Ideal for ultrabooks, tablets, and laptops",
+              ],
+              features: [
+                "Plug-and-play installation",
+                "Supports 10/100 Mbps Ethernet networks",
+                "Compact and portable design",
+                "Compatible with various operating systems",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-SVU0xxa0PfiaQMaHsNQbuQ6wF_BNmRDGKrGwk78CPxqP3pXHPCMZ32Qpz9a0LlO6cM&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEJwljqenVQREKIqsuSODn_b-GHsDULx0XmHiq6-TW7dZ0hjt7Rl5naAfHIjc7cyuPww&usqp=CAU",
+              ],
+              price: "₹ 500",
+              contactButtonText: "Buy USB To Lan",
+            },
+          },
+          {
+            id: "Crimping-Tool-LAN-Cutter",
+            name: "Crimping Tool LAN Cutter",
+            previewImage:
+              "https://seller.seventhsq.com/media/picture/4765cc09da.webp",
+            details: {
+              name: "Crimping Tool LAN Cutter",
+              useCases: [
+                "Crimping RJ45 connectors onto Ethernet cables",
+                "Cutting and stripping network cables",
+                "Ideal for network installation and maintenance",
+              ],
+              features: [
+                "Compatible with 6- and 8-position modular plugs",
+                "Integrated cable cutter and stripper",
+                "Ergonomic handle for comfortable use",
+                "Durable construction for long-term reliability",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlImGNLKvOjDghHYtJ-PElg_ur48wbeG9Ug&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfatJj03WINQdcJGcSWhKkwasnX4koCcOMwGCkzpWDtbHk0lMSt7qtRoAuoTW5roSa20&usqp=CAU",
+              ],
+              price: "₹ 240",
+              contactButtonText: "Buy LAN Cutter",
+            },
+          },
+          {
+            id: "USB-to-RS485",
+            name: "Industrial USB to RS485 Converter",
+            previewImage: "https://m.media-amazon.com/images/I/61gXq8niSDL.jpg",
+            details: {
+              name: "Industrial USB to RS485 Converter",
+              useCases: [
+                "Connecting industrial devices to computers via RS485",
+                "Data acquisition and control systems",
+                "Ideal for industrial automation applications",
+              ],
+              features: [
+                "Supports data rates from 300 to 921600 bps",
+                "Built-in protection circuits for reliable operation",
+                "Plug-and-play functionality",
+                "Compact and durable design",
+              ],
+              images: [
+                "https://m.media-amazon.com/images/I/71yNeQMaSIL._AC_UF894,1000_QL80_.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2KDDgJoP1K0tWjgW3L_gK87GVF0fxUl1BGiONUWhhx1By2v0WRqajoQDd9rmFj-TBKw&usqp=CAU",
+              ],
+              price: "₹ 1275",
+              contactButtonText: "Buy USB to RS485",
+            },
+          },
+          {
+            id: "USB-to-C-hub",
+            name: "Type C To USB Hub",
+            previewImage:
+              "https://5.imimg.com/data5/SELLER/Default/2023/10/353141612/MV/BM/OL/13784088/type-c-to-usb-hub-c-809.jpg",
+            details: {
+              name: "Type C To USB Hub",
+              useCases: [
+                "Expanding connectivity options for USB-C devices",
+                "Connecting peripherals like keyboards, mice, and storage devices",
+                "Ideal for laptops and tablets with limited ports",
+              ],
+              features: [
+                "Multiple USB ports for simultaneous connections",
+                "Supports data transfer and charging",
+                "Compact and lightweight design",
+                "Plug-and-play compatibility",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfoDEOaYpqg13FzGcI_K7nKz7PJikIK88Ar-LSDn64NWDMkqBpgWx_YEOQ-sHa9VeW6y8&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4zJ4jsVHbOuixntCJ_4mN8sOxC7DbUgWmtljHuZwTPaS8kULVWVcrlL6rTxLwrMpiho&usqp=CAU",
+              ],
+              price: "₹ 300",
+              contactButtonText: "Buy Type C To USB Hub",
+            },
+          },
+          {
+            id: "USB-hub",
+            name: "USB Hub",
+            previewImage: "https://m.media-amazon.com/images/I/61cg1AdFLoL.jpg",
+            details: {
+              name: "USB Hub",
+              useCases: [
+                "Connecting multiple USB devices to a single port",
+                "Expanding USB connectivity for laptops and desktops",
+                "Ideal for managing peripherals like printers, scanners, and external drives",
+              ],
+              features: [
+                "Multiple USB ports for simultaneous device connections",
+                "Supports high-speed data transfer",
+                "Compact and portable design",
+                "Plug-and-play functionality",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2EvRJI3YnksrEIjkfARS6pPTY7ixhmHkBTTi1_JnLo3btfAhqTVi-Pyb2_C6ITRVpHxc&usqp=CAU",
+                "https://m.media-amazon.com/images/I/61cg1AdFLoL._AC_UF1000,1000_QL80_.jpg",
+              ],
+              price: "₹ 300",
+              contactButtonText: "Buy USB Hub",
+            },
+          },
+          {
+            id: "electrical-spike-box",
+            name: "Electrical Spike Box",
+            previewImage:
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnxMkWOHudfJ2hmsNA3QiQoJxlWgq2KOmyVg&s",
+            details: {
+              name: "Electrical Spike Box",
+              useCases: [
+                "Protecting electronic devices from power surges",
+                "Providing multiple power outlets for computers, TVs, and appliances",
+                "Ideal for home, office, and industrial setups",
+              ],
+              features: [
+                "Multiple socket outlets with surge protection",
+                "Heavy-duty cable for safe power distribution",
+                "On/off master switch for convenience",
+                "Built-in overload protection",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ZKiZ9zIKCtD95fbg5NR2LTxI3Pr_BaaEqg&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnxMkWOHudfJ2hmsNA3QiQoJxlWgq2KOmyVg&s",
+              ],
+              price: "₹ 400",
+              contactButtonText: "Buy Spike Box",
+            },
+          },
+          {
+            id: "laptop-power-cable",
+            name: "Laptop Power Cable",
+            previewImage:
+              "https://m.media-amazon.com/images/I/61Q6qdwTkLL._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "Laptop Power Cable",
+              useCases: [
+                "Connect laptop to AC power supply",
+                "Charge laptop battery via external adapter",
+                "Use in home or office setups",
+              ],
+              features: [
+                "Length: 1.5 m",
+                "3-pin AC power cable",
+                "Compatible with most laptop power adapters",
+                "Durable build with insulation protection",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0j8hloRzcLROZWc83A5_GuTiMkKrMHrP8IA&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoIt4bbQaapGH2_NVfgm2nNv-r40KqzI7o7A&s",
+              ],
+              price: "₹ 200",
+              contactButtonText: "Buy Laptop Power Cable",
+            },
+          },
+          {
+            id: "desktop-power-cable",
+            name: "Desktop Power Cable",
+            previewImage:
+              "https://m.media-amazon.com/images/I/51QAeM5QYSL._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "Desktop Power Cable",
+              useCases: [
+                "Power supply connection for desktop PCs",
+                "Can be used for printers and other electronic devices",
+                "Ideal for office or workstation setup",
+              ],
+              features: [
+                "Length: 1.5 m",
+                "High quality 3-core copper wire",
+                "Standard Indian plug",
+                "Compatible with CPUs, UPS, monitors",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdY8R9we1yeJD4pMgTSgCHx60WYT7doZdEPQ&s",
+                "https://dynokart.in/wp-content/uploads/2018/03/C8580098a-1-1.jpg",
+              ],
+              price: "₹ 200",
+              contactButtonText: "Buy Desktop Power Cable",
+            },
+          },
+          {
+            id: "camera-smps-4-channel",
+            name: "CCTV camera smps 4 channel",
+            previewImage:
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJc2FGwHpVLTN2o6Ay6yBwIGM7gJGnBqyrQg&s",
+            details: {
+              name: "CCTV camera smps 4 channel",
+              useCases: [
+                "Power supply for up to 4 CCTV cameras",
+                "Ideal for home and office surveillance systems",
+                "Ensures stable power output to prevent camera downtime",
+              ],
+              features: [
+                "Supports 4-channel CCTV power output",
+                "Over-voltage and short-circuit protection",
+                "Compact design",
+                "Input: 100-240V AC, Output: 12V DC",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxUaH0M-0IWXJYn4tn9MjmBRZHPBh8iv6nQ&s",
+                "https://m.media-amazon.com/images/I/41xlA+FvenL.jpg",
+              ],
+              price: "₹ 600",
+              contactButtonText: "Buy CCTV camera smps 4 channel",
+            },
+          },
+          {
+            id: "Pinnacle-Board",
+            name: "Pinnacle Board",
+            previewImage:
+              "https://m.media-amazon.com/images/I/517A1JUOmAS._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "Pinnacle Board",
+              useCases: [
+                "Used in power distribution panels",
+                "Ideal for industrial and residential applications",
+                "Supports modular electrical connections",
+              ],
+              features: [
+                "Length: 1.5 m",
+                "High-quality insulated copper busbar",
+                "Reliable current distribution",
+                "Easy to mount and wire",
+              ],
+              images: [
+                "https://m.media-amazon.com/images/I/51fYrtGVBTS._AC_UF1000,1000_QL80_.jpg",
+                "https://m.media-amazon.com/images/I/61TqJIykXRS.jpg",
+              ],
+              price: "₹ 325",
+              contactButtonText: "Buy Pinnacle Board",
+            },
+          },
+          {
+            id: "USB-to-RS232-485-422",
+            name: "USB to RS232 485 422",
+            previewImage:
+              "https://m.media-amazon.com/images/I/51jBWXt85yL._AC_UF1000,1000_QL80_.jpg",
+            details: {
+              name: "USB to RS232 485 422",
+              useCases: [
+                "Connect serial devices to USB ports",
+                "Used in industrial automation, PLCs, CNC machines",
+                "Data logging, diagnostics, and communication",
+              ],
+              features: [
+                "Supports RS232, RS485, RS422 protocols",
+                "USB powered, plug-and-play",
+                "Supports Windows, Linux, Mac OS",
+                "Stable and reliable communication",
+              ],
+              images: [
+                "https://5.imimg.com/data5/UV/LV/WZ/SELLER-949926/atc-820-usb-to-rs-485-rs-422-converter-250x250.jpg",
+                "https://5.imimg.com/data5/GS/PA/MY-53008030/usb-to-rs485-cable-4-500x500.jpg",
+              ],
+              price: "₹ 1063",
+              contactButtonText: "Buy USB to RS232 485 422",
+            },
+          },
+          {
+            id: "2-pin-philips-cable",
+            name: "2 Pin Philips Cable",
+            previewImage:
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkMwxaTJPKNLTMLGLpHrcXLj76zujs7Z8NKg&s",
+            details: {
+              name: "2 Pin Philips Cable",
+              useCases: [
+                "Powering small appliances",
+                "Commonly used for radios, DVD players, chargers",
+                "Ideal for household electronics",
+              ],
+              features: [
+                "Length: 1.5 m",
+                "2-pin plug with strong insulation",
+                "Flexible and durable wire",
+                "Lightweight and compact design",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_o2_yc0iCy3GIQMLrw-gHlGcyM0dHTc1Wug&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_o2_yc0iCy3GIQMLrw-gHlGcyM0dHTc1Wug&s",
+              ],
+              price: "₹ 200",
+              contactButtonText: "Buy 2 Pin Philips Cable",
+            },
+          },
+          {
+            id: "1220-3v-Cell-Battery",
+            name: "1220 3V Cell Battery (5 psc)",
+            previewImage:
+              "https://rukminim2.flixcart.com/image/850/1000/xif0q/vehicle-battery/8/9/g/3-microlithium-cell-cr-1220-3v-battery-coin-cell-for-calculator-original-imagw9eurhqm6xgh.jpeg?q=90&crop=false",
+            details: {
+              name: "1220 3V Cell Battery (5 psc)",
+              useCases: [
+                "Power source for small electronics",
+                "Used in calculators, watches, car remotes",
+                "Ideal for low-power, long-lasting applications",
+              ],
+              features: [
+                "Pack of 5 batteries",
+                "Lithium coin cell, 3V",
+                "Model: CR1220",
+                "Long shelf life",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEpq0r6k-hy0lBVhREw36iCnK_qnHDcWVaZb3xklk9hU_xq3cl3q2nJKunz_NQXvsoow&usqp=CAU",
+                "https://images.meesho.com/images/products/237410097/2welu_512.webp",
+              ],
+              price: "₹ 50",
+              contactButtonText: "Buy 1220 3V Cell Battery",
+            },
+          },
+          {
+            id: "2023-3v-Cell-Battery",
+            name: "2023 3V Cell Battery (5 psc)",
+            previewImage:
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKNYe_0-UfLnFKdnpIWkBls70ZEEtX33YqdA&s",
+            details: {
+              name: "2023 3V Cell Battery (5 psc)",
+              useCases: [
+                "Used in electronic toys, remote controls, and medical devices",
+                "Fits into small battery compartments",
+                "Supports long-term operation in sensors",
+              ],
+              features: [
+                "3V lithium coin cell",
+                "Pack of 5 pieces",
+                "Compact and lightweight",
+                "Reliable performance in extreme temperatures",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--O1DJE6WbOv86o1TNpNP59Qh-lHU8mJ5ym49fSWtW3TFQ8p3MNMYQdeTgPIxL6AS42A&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKNYe_0-UfLnFKdnpIWkBls70ZEEtX33YqdA&s",
+              ],
+              price: "₹ 75",
+              contactButtonText: "Buy 2023 3V Cell Battery",
+            },
+          },
+          {
+            id: "2032-3v-Cell-Battery",
+            name: "2032 3V Cell Battery (5 psc)",
+            previewImage:
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPx5aPoNL-MNLhBYlXeKR439uCfaqevSvGTQ&s",
+            details: {
+              name: "2032 3V Cell Battery (5 psc)",
+              useCases: [
+                "CMOS battery for computers",
+                "Power for car keys, toys, medical devices",
+                "Used in fitness trackers and digital thermometers",
+              ],
+              features: [
+                "CR2032 Lithium coin cell",
+                "3V output",
+                "Pack of 5 batteries",
+                "High energy density with long life",
+              ],
+              images: [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYkIPlspMd2PaVOhT9UPd_K-UkR7Yx-n-ifNPTlfrIYxvJ2TTi0Qqbu8DghNe8L6Wg1bA&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC0EbRD_gem_ye2GOangLwK-zN6f2cPFY7cL41yxhuUzbW7BBNEcF1u-sYdFJWe8ZpswE&usqp=CAU",
+              ],
+              price: "₹ 150",
+              contactButtonText: "Buy 2032 3V Cell Battery",
+            },
+          },
         ],
       },
     ],
